@@ -8,21 +8,25 @@ Building modern web applications, scalable APIs and mobile experiences.
 
 <p>
 
+<p align="center">
+
 <a href="https://macieleandrodev.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000?style=for-the-badge&logo=vercel">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-111827?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/leandromaciell/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge">
 </a>
 
 <a href="mailto:leanmaci810@gmail.com">
-<img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/📧_Email-Hire_Me-EA4335?style=for-the-badge">
 </a>
 
 <a href="https://www.instagram.com/macideveloper/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge">
 </a>
 
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Angular+%7C+Vue;Spring+Boot+%7C+NestJS+%7C+FastAPI;Building+Products+That+Scale;Available+For+Freelance+Projects">
 
 </div>
 
