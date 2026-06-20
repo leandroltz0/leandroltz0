@@ -37,7 +37,6 @@ I specialize in creating:
 - SaaS Platforms
 - Business Websites
 - REST APIs
-- Admin Dashboards
 - Mobile Applications
 - Cloud Ready Applications
 
