@@ -94,7 +94,7 @@ Deployments and infrastructure using AWS and Azure.
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-### Cloud
+### Learning
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure" />
